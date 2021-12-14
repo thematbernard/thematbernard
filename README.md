@@ -9,6 +9,7 @@
 
       - C/C++ 
       - Java
+      - Python
 - 💞️ I’m looking to collaborate on:
 
        Easy -> Challenging projects
