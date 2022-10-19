@@ -20,6 +20,7 @@
       - Email: mathew.c.bernard@gmail.com
       - Instagram: @thematbernard
       - Facebook: Mathew Bernard
+      - LinkedIn: https://www.linkedin.com/in/mathew-bernard/
 
 <!---
 thematbernard/thematbernard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
