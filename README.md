@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning:
 
       - C/C++ 
-      - Java
+      - GDScript
       - Python
+      - Godot Engine
+      
 - 💞️ I’m looking to collaborate on:
 
        Easy -> Challenging projects
